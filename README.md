@@ -5,7 +5,7 @@
 iOS Developer Roadmap 2022 is learning paths to understanding iOS development.
 
 ## What is iOS App Development?
-iOS is Apple’s mobile operating system (OS) that runs on hardware including iPhone, iPad and iPod Touch. An iOS application is programmed in languages such as Swift and Objective-C and then deployed to the App Store for users to download.
+iOS is Apple’s mobile operating system (OS) that runs on hardware including iPhone, iPad and iPod Touch. An iOS application is programmed in languages such as [Swift](https://gavinw.me/swift-macos/) and [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) and then deployed to the App Store for users to download.
 
 # Table of contents
 * [Sprint 1](https://github.com/canopas/iOS-developer-roadmap#sprint-1)
@@ -117,3 +117,47 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 - First cell should have + sign to load more Images in particular section.
 - Store images into database, & it should be accessible offline.
 - Also provide Delete[multiple selection] & move facility in gallery & it should also delete & move in database. 
+
+## Sprint 5 - Making Swift and iOS stronger
+
+* [SwiftUI](https://developer.apple.com/tutorials/SwiftUI)
+    - [Introducing SwiftUI](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16254084#overview)
+
+* [Combine](https://developer.apple.com/documentation/combine)
+    - [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
+
+#### Practical 5.0
+* Retrieve and display simple users list from web API to iOS List(SwiftUI). Display name, email and city in list.
+
+* API Info:
+    - Type: GET
+    - Path: http://jsonplaceholder.typicode.com/users. 
+
+* Notes:
+    - App should support all iPhone and iPad
+    - Project should be under version control system(use git)
+
+* Features:	
+     - Delete user on long press.
+     - Add SwipeToRefresh functionality 
+     - Store users in the database using CoreData. Refresh them in the database when SwipeToRefresh is triggered.
+     - Implement Add user functionality with three text box of name, email and city
+     - On the user item select event show it’s details in the new screen (Controller).
+     - Implement swiping functionality using UICollectionView. On the user detail screen we should be able to move the next/previous user with a horizontal swipe.
+
+## Sprint 6 - Learning few useful libraries
+
+* [Kingfisher](https://github.com/onevcat/Kingfisher)
+    - Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.
+
+* [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
+    - Rx-Swift is a reactive programming library in iOS app development. It is a multi-platform standard, its difficult-to-handle asynchronous code in Swift, that becomes much easier in Rx-Swift. RxSwift makes it easy to develop dynamic applications that respond to changes in data and respond to user events. Ultimately, it solves the issues related to asynchronous development.
+
+* [Swinject](https://github.com/Swinject/Swinject)
+    - Swinject is a lightweight dependency injection framework for Swift.
+
+* [SwiftLint](https://github.com/realm/SwiftLint)
+    - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
+
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
+    - CocoaLumberjack is a fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS.
