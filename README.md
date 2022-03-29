@@ -1,6 +1,6 @@
 <h1 align="center">iOS Developer Roadmap 2022</h1>
 
-![alt text](https://github.com/cp-radhika-s/Android-Roadmap/blob/main/image/og_image.png)
+![alt text](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/road-map.png)
 
 iOS Developer Roadmap 2022 is learning paths to understanding iOS development.
 
