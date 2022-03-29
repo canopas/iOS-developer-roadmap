@@ -50,7 +50,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller) and its [life cycle](https://medium.com/good-morning-swift/ios-view-controller-life-cycle-2a0f02e74ff5)
 
 #### AutoLayout
-* Overview about [AutoLayout](https://www.udemy.com/join/login-popup/?next=/course/ios-13-app-development-bootcamp/learn/lecture/16252628#overview)
+* [Overview about AutoLayout](https://www.udemy.com/join/login-popup/?next=/course/ios-13-app-development-bootcamp/learn/lecture/16252628#overview)
 * [How to use constraints and apply them to making iOS apps using AutoLayout](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started).
 
 #### Practicle 2.0
@@ -71,7 +71,6 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * [Storyboard Segue: Pass data between view controllers](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 * [UITabBarController](https://developer.apple.com/documentation/uikit/uitabbarcontroller)
-   * Other References:
     - [Starting an iOS Tab Bar App with UITabBarViewController](https://codewithchris.com/ios-tab-bar-app/)
     - [UITabBarController Programmatically](https://unicornmobile.medium.com/uitabbarcontroller-programmatically-316b89b5b21b)
 
@@ -109,6 +108,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
     - [Realm](https://www.raywenderlich.com/9220-realm-tutorial-getting-started)
  
  * [CocoaPods](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview)
+ * [Swift Package Manager](https://www.swift.org/package-manager)
 
 #### Practical 4.0 - Photo Gallery
 - Create 1 screen app using collectionView.
