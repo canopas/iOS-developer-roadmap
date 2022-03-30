@@ -170,7 +170,7 @@ Note:
      - On the user item select event show it’s details in the new screen (Controller).
      - Implement swiping functionality using UICollectionView. On the user detail screen we should be able to move the next/previous user with a horizontal swipe.
 
-## Learning few useful libraries
+## Checkout this article for useful libraries and best practices
 
 * [1 min guide to iOS development best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
 
