@@ -174,6 +174,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 
 * [SwiftLint](https://github.com/realm/SwiftLint)
     - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
+    - Read this [blog](https://medium.com/canopas/swiftlint-integration-in-xcode-and-gitlab-ci-1ae9ef6e5d85) to see how it integrate in XCode and in CI.
 
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
     - CocoaLumberjack is a fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS.
