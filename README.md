@@ -135,7 +135,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 #### Practical 5.2
 * Create simple TODO app with CRUD operation with SQLite using SwiftUI and Combine.
 
-## Sprint 6 - 
+## Sprint 6
 
 * [Combine Asynchronous Code](https://developer.apple.com/documentation/combine/using-combine-for-your-app-s-asynchronous-code)
 * [async/await in SwiftUI](https://peterfriese.dev/posts/swiftui-concurrency-essentials-part1)
