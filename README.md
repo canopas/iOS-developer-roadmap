@@ -124,17 +124,17 @@ Note:
 - Also provide Delete[multiple selection] & move facility in gallery & it should also delete & move in database. 
 
 ## Sprint 5
-* [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
-    - Rx-Swift is a reactive programming library in iOS app development. It is a multi-platform standard, its difficult-to-handle asynchronous code in Swift, that becomes much easier in Rx-Swift. RxSwift makes it easy to develop dynamic applications that respond to changes in data and respond to user events. Ultimately, it solves the issues related to asynchronous development.
+#### [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
+* Rx-Swift is a reactive programming library in iOS app development. It is a multi-platform standard, its difficult-to-handle asynchronous code in Swift, that becomes much easier in Rx-Swift. RxSwift makes it easy to develop dynamic applications that respond to changes in data and respond to user events. Ultimately, it solves the issues related to asynchronous development.
 
-* [SwiftUI](https://developer.apple.com/tutorials/SwiftUI)
-    - [Introducing SwiftUI](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16254084#overview)
+#### [SwiftUI](https://developer.apple.com/tutorials/SwiftUI)
+* [Introducing SwiftUI](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16254084#overview)
 
 #### Practical 5.1
 * Design [this screen](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/Practical-5.1.gif) using SwiftUI. It should be responsive and should support all iOS and iPad devices.
 
-* [Combine](https://developer.apple.com/documentation/combine)
-    - [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
+#### [Combine](https://developer.apple.com/documentation/combine)
+* [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
 
 #### Practical 5.2
 * Create simple TODO app with CRUD operation with SQLite using SwiftUI and Combine.
