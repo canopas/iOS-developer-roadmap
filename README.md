@@ -25,7 +25,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * Basic introduction to [Swift Playgrounds](https://www.appcoda.com/learnswift/playgrounds.html).
 
 #### Practicle 1.1
-* Do all [practicles](https://docs.google.com/document/d/19pIneA9SooEoco6ABiiJTluTPzakfBow/edit) using playground.
+* Do all [practicles](https://github.com/canopas/iOS-developer-roadmap/blob/main/Practical-1.1.md) using playground.
 
 ### XCode
 * [Basic introduction](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16250858#overview)
@@ -54,7 +54,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * [How to use constraints and apply them to making iOS apps using AutoLayout](https://www.raywenderlich.com/811496-auto-layout-tutorial-in-ios-getting-started).
 
 #### Practicle 2.0
-* Create [UI](https://docs.google.com/document/d/1ae9LMqWenP__rK4anDpj69-pVK3vVNXC/edit) using autoLayout.
+* Create given [reaponsive UI](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/Practical-2.0.png) using autoLayout.
+    - You can use alternative images.
 
 ## Sprint 3
 * [iOS Network API and JSON](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16253648#overview)
@@ -114,19 +115,33 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 - Create 1 screen app using collectionView.
 - Create collectionView with 2 sections.
 - Display Images from Github API.
-- First cell should have + sign to load more Images in particular section.
+- First cell should have + sign to load more Images in particular section and it should be the last cell after adding images.
 - Store images into database, & it should be accessible offline.
 - Also provide Delete[multiple selection] & move facility in gallery & it should also delete & move in database. 
 
-## Sprint 5 - Making Swift and iOS stronger
+## Sprint 5
+* [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
+    - Rx-Swift is a reactive programming library in iOS app development. It is a multi-platform standard, its difficult-to-handle asynchronous code in Swift, that becomes much easier in Rx-Swift. RxSwift makes it easy to develop dynamic applications that respond to changes in data and respond to user events. Ultimately, it solves the issues related to asynchronous development.
 
 * [SwiftUI](https://developer.apple.com/tutorials/SwiftUI)
     - [Introducing SwiftUI](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16254084#overview)
 
+#### Practical 5.1
+* Create responsive UI according to given [link](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/Practical-5.1.gif) which should support all iOS and iPad devices.
+
 * [Combine](https://developer.apple.com/documentation/combine)
     - [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
 
-#### Practical 5.0
+#### Practical 5.2
+* Create simple TODO app with CRUD operation with SQLite using SwiftUI and Combine.
+
+## Sprint 6 - 
+
+* [Combine Asynchronous Code](https://developer.apple.com/documentation/combine/using-combine-for-your-app-s-asynchronous-code)
+* [async/await in SwiftUI](https://peterfriese.dev/posts/swiftui-concurrency-essentials-part1)
+* [Networking with Combine and SwiftUI](https://peterfriese.dev/posts/swiftui-combine-networking-gettingstarted)
+
+#### Practical 6.0
 * Retrieve and display simple users list from web API to iOS List(SwiftUI). Display name, email and city in list.
 
 * API Info:
@@ -136,6 +151,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * Notes:
     - App should support all iPhone and iPad
     - Project should be under version control system(use git)
+    - Use [Alamofire](https://github.com/Alamofire/Alamofire) for API call
+    - Cell first show name only and it expand on tap or button like down arrow and show email and city
 
 * Features:	
      - Delete user on long press.
@@ -145,13 +162,10 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
      - On the user item select event show it’s details in the new screen (Controller).
      - Implement swiping functionality using UICollectionView. On the user detail screen we should be able to move the next/previous user with a horizontal swipe.
 
-## Sprint 6 - Learning few useful libraries
+## Learning few useful libraries
 
 * [Kingfisher](https://github.com/onevcat/Kingfisher)
     - Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.
-
-* [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
-    - Rx-Swift is a reactive programming library in iOS app development. It is a multi-platform standard, its difficult-to-handle asynchronous code in Swift, that becomes much easier in Rx-Swift. RxSwift makes it easy to develop dynamic applications that respond to changes in data and respond to user events. Ultimately, it solves the issues related to asynchronous development.
 
 * [Swinject](https://github.com/Swinject/Swinject)
     - Swinject is a lightweight dependency injection framework for Swift.
