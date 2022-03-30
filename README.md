@@ -164,6 +164,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 
 ## Learning few useful libraries
 
+* [1 min guide to iOS development best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
+
 * [Kingfisher](https://github.com/onevcat/Kingfisher)
     - Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.
 
