@@ -89,7 +89,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * On Cell click user information should be displayed with Name, avatar , followers, following  on another screen.
 * Take a batch size of 30 & put a loader at bottom of the screen while loading data.
 
-Note:
+* Note:
     - Use [Alamofire](https://github.com/Alamofire/Alamofire) for API call.
     - Use [Kingfisher](https://github.com/onevcat/Kingfisher) to load image from URL.
 
