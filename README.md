@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/road-map.png)
 
-iOS Developer Roadmap 2022 is learning paths to understanding iOS development.
+iOS Developer Roadmap 2022 is a learning path to understand iOS development.
 
 ## What is iOS App Development?
 iOS is Apple’s mobile operating system (OS) that runs on hardware including iPhone, iPad and iPod Touch. An iOS application is programmed in languages such as [Swift](https://gavinw.me/swift-macos/) and [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) and then deployed to the App Store for users to download.
@@ -89,6 +89,10 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * On Cell click user information should be displayed with Name, avatar , followers, following  on another screen.
 * Take a batch size of 30 & put a loader at bottom of the screen while loading data.
 
+Note:
+    - Use [Alamofire](https://github.com/Alamofire/Alamofire) for API call.
+    - Use [Kingfisher](https://github.com/onevcat/Kingfisher) to load image from URL.
+
 ## Sprint 4
 
 * UICollectionview
@@ -127,13 +131,17 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
     - [Introducing SwiftUI](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16254084#overview)
 
 #### Practical 5.1
-* Create responsive UI according to given [link](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/Practical-5.1.gif) which should support all iOS and iPad devices.
+* Design [this screen](https://github.com/canopas/iOS-developer-roadmap/blob/main/assets/Practical-5.1.gif) using SwiftUI. It should be responsive and should support all iOS and iPad devices.
 
 * [Combine](https://developer.apple.com/documentation/combine)
     - [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
 
 #### Practical 5.2
 * Create simple TODO app with CRUD operation with SQLite using SwiftUI and Combine.
+    - Home screen should have list of task with add new task fab button.
+    - On the click of task it should be redirect to task status screen where it can be edit.
+    - On the cell swipe it shows delete option and on it's click that particular task should delete.
+    - Add option to active and inactive task.
 
 ## Sprint 6
 
@@ -166,15 +174,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 
 * [1 min guide to iOS development best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
 
-* [Kingfisher](https://github.com/onevcat/Kingfisher)
-    - Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.
-
 * [Swinject](https://github.com/Swinject/Swinject)
     - Swinject is a lightweight dependency injection framework for Swift.
-
-* [SwiftLint](https://github.com/realm/SwiftLint)
-    - A tool to enforce Swift style and conventions, loosely based on the now archived GitHub Swift Style Guide.
-    - Read this [blog](https://medium.com/canopas/swiftlint-integration-in-xcode-and-gitlab-ci-1ae9ef6e5d85) to see how it integrate in XCode and in CI.
 
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
     - CocoaLumberjack is a fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS.
