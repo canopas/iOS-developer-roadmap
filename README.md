@@ -170,12 +170,6 @@ Note:
      - On the user item select event show it’s details in the new screen (Controller).
      - Implement swiping functionality using UICollectionView. On the user detail screen we should be able to move the next/previous user with a horizontal swipe.
 
-## Checkout this article for useful libraries and best practices
+## Learning a few useful libraries
 
-* [1 min guide to iOS development best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
-
-* [Swinject](https://github.com/Swinject/Swinject)
-    - Swinject is a lightweight dependency injection framework for Swift.
-
-* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)
-    - CocoaLumberjack is a fast & simple, yet powerful & flexible logging framework for macOS, iOS, tvOS and watchOS.
+* [Checkout this article for useful libraries and best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
