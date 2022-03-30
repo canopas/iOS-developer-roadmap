@@ -172,4 +172,4 @@ Note:
 
 ## Learning a few useful libraries
 
-* [Checkout this article for useful libraries and best practices](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1)
+* Checkout [this article](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1) for useful libraries and best practices.
