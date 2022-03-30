@@ -119,7 +119,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 - Create 1 screen app using collectionView.
 - Create collectionView with 2 sections.
 - Display Images from Github API.
-- First cell should have + sign to load more Images in particular section and it should be the last cell after adding images.
+- Last cell should have + sign to load more Images in particular section.
 - Store images into database, & it should be accessible offline.
 - Also provide Delete[multiple selection] & move facility in gallery & it should also delete & move in database. 
 
