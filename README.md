@@ -37,7 +37,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * Create repository of practicle 1.1 on Gitlab
 
 #### References
-* Introduction to version control: [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
+* Introduction to version control: [What Is Version Control?](https://tutorials.codebar.io/version-control/introduction/tutorial.html)
 * How to use git
     -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
