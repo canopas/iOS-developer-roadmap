@@ -42,10 +42,11 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
     -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
     -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/10929402#overview)
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
+    -  [Understanding Git Version Control and Learn How to Use It in Xcode](https://medium.com/appcoda-tutorials/understanding-git-version-control-and-learn-how-to-use-it-in-xcode-1bb29c10fc2d)  or  [with terminal](https://medium.com/the-sd-coders/using-git-version-control-with-terminal-and-xcode-aabeae21f17e)
 
 ## Sprint 2
 * [How to use apple Documentation](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16252724#overview)
-* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes)
+* [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview)
 * [iOS App Life Cycle](https://medium.com/@neroxiao/ios-app-life-cycle-ec1b31cee9dc)
 * [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller) and its [life cycle](https://medium.com/good-morning-swift/ios-view-controller-life-cycle-2a0f02e74ff5)
 
@@ -61,7 +62,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * [iOS Network API and JSON](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16253648#overview)
     - Elegant HTTP Networking in Swift: [Alamofire](https://github.com/Alamofire/Alamofire)
  
-* [UIScrollView](https://www.raywenderlich.com/159481/uiscrollview-tutorial-getting-started)
+* [UIScrollView Tutorial: Getting Started](https://www.raywenderlich.com/159481/uiscrollview-tutorial-getting-started)
+    - [A Beginner’s Guide to UIScrollView](https://www.appcoda.com/uiscrollview-introduction/)
 
 * [UITableView](https://developer.apple.com/documentation/uikit/uitableview)
     - [UITableview with custom cells](https://www.ralfebert.de/ios-examples/uikit/uitableviewcontroller/custom-cells/)
