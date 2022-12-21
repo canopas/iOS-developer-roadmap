@@ -183,7 +183,6 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 ## Learning a few useful libraries
 
 * Checkout [this article](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1) for useful libraries and best practices.
-* [UIPilot: The missing typesafe SwiftUI navigation library](https://github.com/canopas/UIPilot)
 * [Cool animations implemented with SwiftUI](https://github.com/canopas/Swiftui-animations-examples)
 
 ## Extra Practicals
