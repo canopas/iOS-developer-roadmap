@@ -116,9 +116,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
     - [SQLite](https://github.com/stephencelis/SQLite.swift)
     - [Realm](https://www.raywenderlich.com/9220-realm-tutorial-getting-started)
  
- * [CocoaPods](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview)
- * [Swift Package Manager](https://www.swift.org/package-manager)
- * * Just for reference: [100 Days of Swift](https://www.hackingwithswift.com/100)
+* [CocoaPods](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview)
+* [Swift Package Manager](https://www.swift.org/package-manager)
 
 #### Practical 4.0 - Photo Gallery
 - Create 1 screen app using collectionView.
@@ -127,6 +126,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 - Last cell should have + sign to load more Images in particular section.
 - Store images into database, & it should be accessible offline.
 - Also provide Delete[multiple selection] & move facility in gallery & it should also delete & move in database. 
+
+* Just for reference: [100 Days of Swift](https://www.hackingwithswift.com/100)
 
 ## Sprint 5
 #### [RxSwift](https://github.com/ReactiveX/RxSwift) and RxCocoa
@@ -182,3 +183,10 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 ## Learning a few useful libraries
 
 * Checkout [this article](https://medium.com/canopas/1-min-guide-to-ios-development-best-practices-in-2022-e3f1d009cfa1) for useful libraries and best practices.
+* [UIPilot: The missing typesafe SwiftUI navigation library](https://github.com/canopas/UIPilot)
+* [Cool animations implemented with SwiftUI](https://github.com/canopas/Swiftui-animations-examples)
+
+## Extra Practicals
+
+* [GitUser Store](https://docs.google.com/document/d/1krxgL5VxzRNGcTHhdSPMf-HwFYYc0Hbn9I6YWMkeGKk)
+* [UniversityRoom](https://docs.google.com/document/d/1g-45sRokWTVewusxk5K-JyQAktMKr2JLKoCtErEm_3Y)
