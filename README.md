@@ -64,24 +64,28 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
  
 * [UIScrollView Tutorial: Getting Started](https://www.raywenderlich.com/159481/uiscrollview-tutorial-getting-started)
     - [A Beginner’s Guide to UIScrollView](https://www.appcoda.com/uiscrollview-introduction/)
+    - [How to use scroll view in Interface Builder / Storyboard](https://fluffy.es/scrollview-storyboard-xcode-11/)
 
 * [UITableView](https://developer.apple.com/documentation/uikit/uitableview)
     - [UITableview with custom cells](https://www.ralfebert.de/ios-examples/uikit/uitableviewcontroller/custom-cells/)
     - [Self-sizing Table View Cells](https://www.raywenderlich.com/129059/self-sizing-table-view-cells)
-    - [Delete Row From Tableview](https://www.ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)
+    - [Delete Row From Tableview](https://www.hackingwithswift.com/example-code/uikit/how-to-swipe-to-delete-uitableviewcells)
     - [Add Search bar in tableview](https://www.raywenderlich.com/472-uisearchcontroller-tutorial-getting-started)
 
 * [Storyboard Segue: Pass data between view controllers](https://www.raywenderlich.com/5055364-ios-storyboards-getting-started)
 
 * [UITabBarController](https://developer.apple.com/documentation/uikit/uitabbarcontroller)
+    - [Tab Bar Controller Guide](https://guides.codepath.com/ios/Tab-Bar-Controller-Guide)
     - [Starting an iOS Tab Bar App with UITabBarViewController](https://codewithchris.com/ios-tab-bar-app/)
     - [UITabBarController Programmatically](https://unicornmobile.medium.com/uitabbarcontroller-programmatically-316b89b5b21b)
 
 #### Practical 3.0
 * Create an app of Git Users.
 * Create app with 2 tab:
-    A. All Users [ display list of all Users ]
-    B. Profile [ display email,avatar, name of current logged in user ]
+
+    A. All Users [display list of all Users]
+
+    B. Profile [display email,avatar, name of current logged in user]
 * Provide a login facility when the user first installs the app & after show Tabbar home screen [ all users ].
 * Check for authentication of user from: https://api.github.com/users
 * Use gitHub doc : https://developer.github.com/v3/users/#get-the-authenticated-user
@@ -96,14 +100,12 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
     - Use [Kingfisher](https://github.com/onevcat/Kingfisher) to load image from URL.
 
 ## Sprint 4
-
-* UICollectionview
-    - [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
+* [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
     - [UICollectionViewDelegate](https://developer.apple.com/documentation/uikit/uicollectionviewdelegate)
     - [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayout)
-    - [CollectionView based App with custom Collection cell](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
-    - [Add Header and footer in collectionview and tableview](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering#toc-anchor-001)
-    - [CollectionView Compositional Layout](https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts)
+    - [UICollectionView Tutorial: Getting Started](https://www.raywenderlich.com/9334-uicollectionview-tutorial-getting-started)
+    - [UICollectionView Tutorial: Headers, Selection and Reordering](https://www.raywenderlich.com/9477-uicollectionview-tutorial-reusable-views-selection-and-reordering#toc-anchor-001)
+    - [Modern Collection Views with Compositional Layouts](https://www.raywenderlich.com/5436806-modern-collection-views-with-compositional-layouts) :- [Getting Started with UICollectionViewCompositionalLayout](https://lickability.com/blog/getting-started-with-uicollectionviewcompositionallayout/)
 
 * [UIStackView](https://www.raywenderlich.com/160646/uistackview-tutorial-introducing-stack-views-2)
 * [UIGestureRecognizer](https://www.raywenderlich.com/6747815-uigesturerecognizer-tutorial-getting-started)
@@ -116,6 +118,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
  
  * [CocoaPods](https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16813258#overview)
  * [Swift Package Manager](https://www.swift.org/package-manager)
+ * * Just for reference: [100 Days of Swift](https://www.hackingwithswift.com/100)
 
 #### Practical 4.0 - Photo Gallery
 - Create 1 screen app using collectionView.
@@ -137,6 +140,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 
 #### [Combine](https://developer.apple.com/documentation/combine)
 * [Intro to SwiftUI Combine and Data](https://designcode.io/swiftui-combine-intro)
+* [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine)
 
 #### Practical 5.2
 * Create simple TODO app with CRUD operation with SQLite using SwiftUI and Combine.
@@ -150,6 +154,7 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
 * [Combine Asynchronous Code](https://developer.apple.com/documentation/combine/using-combine-for-your-app-s-asynchronous-code)
 * [async/await in SwiftUI](https://peterfriese.dev/posts/swiftui-concurrency-essentials-part1)
 * [Networking with Combine and SwiftUI](https://peterfriese.dev/posts/swiftui-combine-networking-gettingstarted)
+* [Detail knowledge about combine](https://heckj.github.io/swiftui-notes)
 
 #### Practical 6.0
 * Retrieve and display simple users list from web API to iOS List(SwiftUI). Display name, email and city in list.
@@ -171,6 +176,8 @@ iOS is Apple’s mobile operating system (OS) that runs on hardware including iP
      - Implement Add user functionality with three text box of name, email and city
      - On the user item select event show it’s details in the new screen (Controller).
      - Implement swiping functionality using UICollectionView. On the user detail screen we should be able to move the next/previous user with a horizontal swipe.
+
+* Just for reference: [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
 ## Learning a few useful libraries
 
